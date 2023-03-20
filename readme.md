@@ -14,11 +14,11 @@ It's:
 
 > Make sure that you have at least Node.js `16.x` installed
 
-> First of all, install required packages:
-> ```npm i```
-> 
-> Then, just run the script and you're good to go:
-> ```node index.js```
+First of all, install required packages:
+```npm i```
+
+Then, just run the script and you're good to go:
+```node index.js```
 
 
 #### That's it! Enjoy.
